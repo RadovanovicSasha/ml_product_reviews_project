@@ -1,1 +1,4 @@
-# ml_product_reviews_project
+## Project status
+
+Initial exploratory analysis completed.
+Repository structure finalized.
